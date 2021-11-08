@@ -1,0 +1,3 @@
+Use of undeclared identifier 'marks'
+int marks;
+marks = 23;
